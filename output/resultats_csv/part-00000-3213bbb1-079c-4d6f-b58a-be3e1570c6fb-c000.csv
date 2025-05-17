@@ -1,0 +1,31 @@
+id,nom_clinique,avis,sentiment
+1,Clinique El Manar,Personnel très professionnel et attentionné. Je recommande vivement !,Positif
+2,Clinique La Marsa,"Excellente expérience, clinique propre et médecins très compétents. Merci !",Positif
+3,Clinique du Carthage,Prise en charge rapide et efficace. Je suis très satisfait.,Positif
+4,Clinique de Tunis,"Service impeccable, le suivi est parfait.",Positif
+5,Clinique Sidi Bou Saïd,Clinique moderne et personnel très accueillant.,Positif
+6,Clinique Ain Zaghouan,"Très bon service, chirurgien professionnel et ambiance rassurante.",Positif
+7,Clinique El Manar 2,"Chirurgie réussie, résultat parfait. Merci à toute l’équipe !",Positif
+8,Clinique du Lac,"Les médecins sont excellents, le personnel est accueillant.",Positif
+9,Clinique Soukra,"Accueil chaleureux, médecins professionnels. Recommande sans hésiter !",Positif
+10,Clinique El Kantaoui,"Clinique au top, tout était impeccable !",Positif
+11,Clinique Ariana,Satisfait de la prise en charge. Très bon suivi postopératoire.,Positif
+12,Clinique Carthage Plus,Excellent accueil et service parfait. Je remercie toute l’équipe.,Positif
+13,Clinique les Jasmins,Accueil impeccable et soins parfaits. Je recommande !,Positif
+14,Clinique de la Médina,"Clinique correcte, service standard.",Neutre
+15,Clinique Al Menzah,"Clinique propre, service satisfaisant.",Neutre
+16,Clinique de l'Ariana,"Visite classique, prestation dans la moyenne.",Neutre
+17,Clinique Pasteur,"Consultation classique, cadre acceptable.",Neutre
+18,Clinique Ennasr,"Ni bon ni mauvais, prestation neutre.",Neutre
+19,Clinique de Ksar,"Clinique convenable, rien d’exceptionnel.",Neutre
+20,Clinique Medina,"Service ordinaire, expérience neutre.",Neutre
+21,Clinique El Mourouj,"Rien à signaler de particulier, tout s’est déroulé normalement.",Neutre
+22,Clinique Ibn Khaldoun,"Consultation simple, cadre convenable.",Neutre
+23,Clinique Monastir,"Service médical basique, sans problème notable.",Positif
+24,Clinique Al Yasmine,Accueil froid et médecins peu disponibles. Je suis très déçu.,Positif
+25,Clinique de la Soukra,"Très longue attente, c’est inacceptable !",Positif
+26,Clinique El Menzeh,Personnel désagréable et soins bâclés.,Positif
+27,Clinique Carthage,"Expérience horrible, je déconseille fortement.",Négatif
+28,Clinique Tunis Sud,Mauvaise organisation et accueil désagréable.,Négatif
+29,Clinique El Khadhra,"Consultation catastrophique, problème de coordination entre services.",Neutre
+30,Clinique Ariana Santé,"Service lent, dossier perdu, un vrai scandaleux traitement.",Négatif

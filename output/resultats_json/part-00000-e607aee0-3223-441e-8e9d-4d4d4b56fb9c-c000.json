@@ -1,0 +1,30 @@
+{"id":"1","nom_clinique":"Clinique El Manar","avis":"Personnel très professionnel et attentionné. Je recommande vivement !","sentiment":"Positif"}
+{"id":"2","nom_clinique":"Clinique La Marsa","avis":"Excellente expérience, clinique propre et médecins très compétents. Merci !","sentiment":"Positif"}
+{"id":"3","nom_clinique":"Clinique du Carthage","avis":"Prise en charge rapide et efficace. Je suis très satisfait.","sentiment":"Positif"}
+{"id":"4","nom_clinique":"Clinique de Tunis","avis":"Service impeccable, le suivi est parfait.","sentiment":"Positif"}
+{"id":"5","nom_clinique":"Clinique Sidi Bou Saïd","avis":"Clinique moderne et personnel très accueillant.","sentiment":"Positif"}
+{"id":"6","nom_clinique":"Clinique Ain Zaghouan","avis":"Très bon service, chirurgien professionnel et ambiance rassurante.","sentiment":"Positif"}
+{"id":"7","nom_clinique":"Clinique El Manar 2","avis":"Chirurgie réussie, résultat parfait. Merci à toute l’équipe !","sentiment":"Positif"}
+{"id":"8","nom_clinique":"Clinique du Lac","avis":"Les médecins sont excellents, le personnel est accueillant.","sentiment":"Positif"}
+{"id":"9","nom_clinique":"Clinique Soukra","avis":"Accueil chaleureux, médecins professionnels. Recommande sans hésiter !","sentiment":"Positif"}
+{"id":"10","nom_clinique":"Clinique El Kantaoui","avis":"Clinique au top, tout était impeccable !","sentiment":"Positif"}
+{"id":"11","nom_clinique":"Clinique Ariana","avis":"Satisfait de la prise en charge. Très bon suivi postopératoire.","sentiment":"Positif"}
+{"id":"12","nom_clinique":"Clinique Carthage Plus","avis":"Excellent accueil et service parfait. Je remercie toute l’équipe.","sentiment":"Positif"}
+{"id":"13","nom_clinique":"Clinique les Jasmins","avis":"Accueil impeccable et soins parfaits. Je recommande !","sentiment":"Positif"}
+{"id":"14","nom_clinique":"Clinique de la Médina","avis":"Clinique correcte, service standard.","sentiment":"Neutre"}
+{"id":"15","nom_clinique":"Clinique Al Menzah","avis":"Clinique propre, service satisfaisant.","sentiment":"Neutre"}
+{"id":"16","nom_clinique":"Clinique de l'Ariana","avis":"Visite classique, prestation dans la moyenne.","sentiment":"Neutre"}
+{"id":"17","nom_clinique":"Clinique Pasteur","avis":"Consultation classique, cadre acceptable.","sentiment":"Neutre"}
+{"id":"18","nom_clinique":"Clinique Ennasr","avis":"Ni bon ni mauvais, prestation neutre.","sentiment":"Neutre"}
+{"id":"19","nom_clinique":"Clinique de Ksar","avis":"Clinique convenable, rien d’exceptionnel.","sentiment":"Neutre"}
+{"id":"20","nom_clinique":"Clinique Medina","avis":"Service ordinaire, expérience neutre.","sentiment":"Neutre"}
+{"id":"21","nom_clinique":"Clinique El Mourouj","avis":"Rien à signaler de particulier, tout s’est déroulé normalement.","sentiment":"Neutre"}
+{"id":"22","nom_clinique":"Clinique Ibn Khaldoun","avis":"Consultation simple, cadre convenable.","sentiment":"Neutre"}
+{"id":"23","nom_clinique":"Clinique Monastir","avis":"Service médical basique, sans problème notable.","sentiment":"Positif"}
+{"id":"24","nom_clinique":"Clinique Al Yasmine","avis":"Accueil froid et médecins peu disponibles. Je suis très déçu.","sentiment":"Positif"}
+{"id":"25","nom_clinique":"Clinique de la Soukra","avis":"Très longue attente, c’est inacceptable !","sentiment":"Positif"}
+{"id":"26","nom_clinique":"Clinique El Menzeh","avis":"Personnel désagréable et soins bâclés.","sentiment":"Positif"}
+{"id":"27","nom_clinique":"Clinique Carthage","avis":"Expérience horrible, je déconseille fortement.","sentiment":"Négatif"}
+{"id":"28","nom_clinique":"Clinique Tunis Sud","avis":"Mauvaise organisation et accueil désagréable.","sentiment":"Négatif"}
+{"id":"29","nom_clinique":"Clinique El Khadhra","avis":"Consultation catastrophique, problème de coordination entre services.","sentiment":"Neutre"}
+{"id":"30","nom_clinique":"Clinique Ariana Santé","avis":"Service lent, dossier perdu, un vrai scandaleux traitement.","sentiment":"Négatif"}

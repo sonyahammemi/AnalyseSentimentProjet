@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0mE:\ProjectsWorkspace\AnalyseSentimentProjet\src\main\scala\sentimentclinic\output\ResultSaver.scala:59:11: overloaded method value addSeries with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (x$1: String,x$2: java.util.List[_],x$3: java.util.List[_ <: Number])org.knowm.xchart.CategorySeries <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (x$1: String,x$2: Array[Int],x$3: Array[Int])org.knowm.xchart.CategorySeries <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (x$1: String,x$2: Array[Double],x$3: Array[Double])org.knowm.xchart.CategorySeries[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (String, Array[String], Array[Double])[0m
+[0m[[0m[31merror[0m] [0m[0m    chart.addSeries("Sentiments", categories, values)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
