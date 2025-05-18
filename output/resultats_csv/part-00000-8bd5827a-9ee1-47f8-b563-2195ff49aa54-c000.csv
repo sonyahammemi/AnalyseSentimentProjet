@@ -21,11 +21,11 @@ id,nom_clinique,avis,sentiment
 20,Clinique Medina,"Service ordinaire, expérience neutre.",Neutre
 21,Clinique El Mourouj,"Rien à signaler de particulier, tout s’est déroulé normalement.",Neutre
 22,Clinique Ibn Khaldoun,"Consultation simple, cadre convenable.",Neutre
-23,Clinique Monastir,"Service médical basique, sans problème notable.",Positif
-24,Clinique Al Yasmine,Accueil froid et médecins peu disponibles. Je suis très déçu.,Positif
-25,Clinique de la Soukra,"Très longue attente, c’est inacceptable !",Positif
+23,Clinique Monastir,"Service médical basique, sans problème notable.",Neutre
+24,Clinique Al Yasmine,Accueil chaleureux et médecins très à l’écoute. Une expérience rassurante et professionnelle.,Positif
+25,Clinique de la Soukra,Attente raisonnable et personnel attentionné. Je suis satisfait de la qualité du service.,Négatif
 26,Clinique El Menzeh,Personnel désagréable et soins bâclés.,Positif
 27,Clinique Carthage,"Expérience horrible, je déconseille fortement.",Négatif
-28,Clinique Tunis Sud,Mauvaise organisation et accueil désagréable.,Négatif
-29,Clinique El Khadhra,"Consultation catastrophique, problème de coordination entre services.",Neutre
-30,Clinique Ariana Santé,"Service lent, dossier perdu, un vrai scandaleux traitement.",Négatif
+28,Clinique Tunis Sud,Mauvaise organisation et accueil désagréable.,Positif
+29,Clinique El Khadhra,"Consultation catastrophique, problème de coordination entre services.",Négatif
+30,Clinique Ariana Santé,"Service lent, dossier perdu, un vrai scandinave traitement.",Neutre

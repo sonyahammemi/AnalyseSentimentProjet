@@ -21,12 +21,12 @@
 {"id":"20","nom_clinique":"Clinique Medina","avis":"Service ordinaire, expérience neutre.","sentiment":"Neutre"},
 {"id":"21","nom_clinique":"Clinique El Mourouj","avis":"Rien à signaler de particulier, tout s’est déroulé normalement.","sentiment":"Neutre"},
 {"id":"22","nom_clinique":"Clinique Ibn Khaldoun","avis":"Consultation simple, cadre convenable.","sentiment":"Neutre"},
-{"id":"23","nom_clinique":"Clinique Monastir","avis":"Service médical basique, sans problème notable.","sentiment":"Positif"},
-{"id":"24","nom_clinique":"Clinique Al Yasmine","avis":"Accueil froid et médecins peu disponibles. Je suis très déçu.","sentiment":"Positif"},
-{"id":"25","nom_clinique":"Clinique de la Soukra","avis":"Très longue attente, c’est inacceptable !","sentiment":"Positif"},
+{"id":"23","nom_clinique":"Clinique Monastir","avis":"Service médical basique, sans problème notable.","sentiment":"Neutre"},
+{"id":"24","nom_clinique":"Clinique Al Yasmine","avis":"Accueil chaleureux et médecins très à l’écoute. Une expérience rassurante et professionnelle.","sentiment":"Positif"},
+{"id":"25","nom_clinique":"Clinique de la Soukra","avis":"Attente raisonnable et personnel attentionné. Je suis satisfait de la qualité du service.","sentiment":"Négatif"},
 {"id":"26","nom_clinique":"Clinique El Menzeh","avis":"Personnel désagréable et soins bâclés.","sentiment":"Positif"},
 {"id":"27","nom_clinique":"Clinique Carthage","avis":"Expérience horrible, je déconseille fortement.","sentiment":"Négatif"},
-{"id":"28","nom_clinique":"Clinique Tunis Sud","avis":"Mauvaise organisation et accueil désagréable.","sentiment":"Négatif"},
-{"id":"29","nom_clinique":"Clinique El Khadhra","avis":"Consultation catastrophique, problème de coordination entre services.","sentiment":"Neutre"},
-{"id":"30","nom_clinique":"Clinique Ariana Santé","avis":"Service lent, dossier perdu, un vrai scandaleux traitement.","sentiment":"Négatif"}
+{"id":"28","nom_clinique":"Clinique Tunis Sud","avis":"Mauvaise organisation et accueil désagréable.","sentiment":"Positif"},
+{"id":"29","nom_clinique":"Clinique El Khadhra","avis":"Consultation catastrophique, problème de coordination entre services.","sentiment":"Négatif"},
+{"id":"30","nom_clinique":"Clinique Ariana Santé","avis":"Service lent, dossier perdu, un vrai scandinave traitement.","sentiment":"Neutre"}
 ]
